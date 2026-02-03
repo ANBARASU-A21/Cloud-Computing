@@ -1,0 +1,4 @@
+PES2UG23CS067
+Yes. The command docker image prune -a can be used to delete Docker images completely in one go.
+This command removes all unused and dangling images that are not associated with any containers,
+thereby freeing disk space.
